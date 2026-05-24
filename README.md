@@ -1,4 +1,9 @@
-The following are a list of applications I have personally used to simplify my transition from iOS to Android.
+# Backstory
+
+### For roughly 12 years I had primary used iOS as a daily driver. Due to such a long period, I experienced a lot of UI related shock moving to GrapheneOS.
+
+---
+### The following are a list of applications I have personally used to simplify my transition from iOS to Android.
 
 | Name                   |     Description           | Install        |           Repo/URL                                                            |
 |------------------------|---------------------------|----------------| ------------------------------------------------------------------------------|

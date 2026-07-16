@@ -11,4 +11,5 @@
 |   FUTO Keyboard        |    iOS-Like Keyboard      |   APK/FDROID   | https://github.com/futo-org/android-keyboard                                  |
 |   FUTO Voice Input     |  iOS-Like Text Dictation  |   APK/FDROID   | https://github.com/futo-org/voice-input                                       |
 |   Dicio Assistant      | Siri-Like Local Assistant |   APK/FDROID   | https://github.com/DicioTeam/dicio-android                                    |
+|   Screen Time          | Screen time replacement   |   APK/FDROID   | https://gitlab.com/Atharok/ScreenTime                                         |
 |                        |                           |                |                                                                               |
